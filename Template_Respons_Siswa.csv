@@ -1,0 +1,4 @@
+Timestamp,Email,Nama Siswa,NIS/NISN,Kelas,Soal 1,Soal 2,Soal 3,Soal 4,Soal 5,Soal 6 (Nilai Uraian Guru)
+2026-05-21 08:00:00,siswa1@sekolah.id,Andi Susanto,1001,7A,A,"A, C","B, S, B, B","1-C, 2-A, 3-D",Kloroplas,4
+2026-05-21 08:05:00,siswa2@sekolah.id,Budi Raharjo,1002,7A,B,"A, D","B, B, B, B","1-C, 2-B, 3-A",Mitokondria,2
+2026-05-21 08:10:00,siswa3@sekolah.id,Citra Kirana,1003,7A,A,"A, C","B, S, B, S","1-C, 2-A, 3-D",Kloroplas,5
